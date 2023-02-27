@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/style.css">
+    <script defer src="script.js"></script>
+    <title>Artflix</title>
+</head>
+<body>
+    <header class="container">
+        <h1 class="page-title">
+            <strong>Artflix<strong>
+        </h1>
+        
+        <img1 src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-aluraflix.svg" class="page-logo" alt="">
+    </header>
+
+    <main>
+        <p>Clique em uma arte para ver o portifólio do artista.<br><br>Digite a url da imagem e o link do portifólio para adicionar mais artistas.</p><br>
+        
+        <div class="campo">
+            <input type="string" id="arteLink" name="arteLink" placeholder="Insira a url do Artista " required><br>
+            <input type="string" id="arteImg" name="arteImg" placeholder="Insira a url da imagem" required><br>
+            <button class="botao" id="add" type="submit" onclick="adicArte()">Adicionar</button><br>
+        </div>
+        
+        <section class="img">
+                <a href="https://www.artstation.com/josan" target="_blank">
+                <img src="https://i.pinimg.com/564x/8b/1f/99/8b1f99a333707fe7dd6e95755ae04e19.jpg">
+                </a>
+        
+                <a href="https://www.instagram.com/danmumforddraws/"target="_blank">
+                <img src="https://i.pinimg.com/564x/e0/8a/3c/e08a3cf5d0a7d0cc5e3812c9c9e92be5.jpg">
+                </a>
+        
+                <a href="https://www.artstation.com/fernandocorrea" target="_blank">
+                <img src="https://cdnb.artstation.com/p/assets/images/images/041/195/663/large/fernando-correa-noir.jpg?1631028790">
+                </a>
+        
+                <a href="https://www.artstation.com/seventeenth" target="_blank">
+                <img src="https://i.pinimg.com/564x/c9/83/f5/c983f5e4b5a07361aa14cdce0b89b326.jpg">
+                </a>
+                <a href="https://www.artstation.com/justingerardillustration" target="_blank">
+                    <img src="https://i.pinimg.com/564x/92/f2/a2/92f2a2afaa2bba9d764684d430d524bd.jpg">
+                </a>
+        
+                <a href="https://www.artstation.com/haryarti" target="_blank">
+                    <img src="https://i.pinimg.com/564x/be/c9/85/bec98575dce0e853543a6ff6548139e6.jpg">
+                </a>
+        
+                <a href="https://www.artstation.com/hualu" target="_blank">
+                    <img src="https://i.pinimg.com/564x/09/5f/9b/095f9bc388c8f4d580c9d0bf823a683a.jpg">
+                </a>
+        
+                <a href="https://www.artstation.com/leimin" target="_blank">
+                    <img src="https://i.pinimg.com/564x/83/6e/1d/836e1d1c6c1cfb6c37e6044c2212ab26.jpg">
+                </a>
+        
+                <a href="https://www.artstation.com/dofresh" target="_blank">
+                    <img src="https://cdnb.artstation.com/p/assets/images/images/039/629/143/large/dofresh-city-def.jpg?1626446832">
+                </a>
+        
+                <a href="https://www.artstation.com/mandryk" target="_blank">
+                    <img src="https://cdnb.artstation.com/p/assets/images/images/027/178/849/large/daryl-mandryk-desert-runners.jpg?1590797097">
+                </a>
+        
+                <a href="https://www.artstation.com/simeonschaffner" target="_blank">
+                    <img src="https://cdna.artstation.com/p/assets/images/images/045/391/294/large/simeon-schaffner-demo-winter-2021.jpg?1644935841">
+                </a>
+        
+                <a href="https://www.artstation.com/hugenfast" target="_blank">
+                    <img src="https://cdnb.artstation.com/p/assets/images/images/004/004/673/large/joshua-brian-smith-woska-fanart-jsmith-web.jpg?1479368061">
+                </a>
+        
+                <a href="https://www.artstation.com/sergey_vasnev" target="_blank">
+                    <img src="https://cdna.artstation.com/p/assets/images/images/007/869/372/large/sergey-vasnev-sergey-vasnev-castle-fin2.jpg?1509035320">
+                </a>
+        
+                <a href="https://www.artstation.com/ehebinger" target="_blank">
+                    <img src="https://cdnb.artstation.com/p/assets/images/images/045/305/433/large/etienne-hebinger-cover-cities-09-sd-recrop.jpg?1642428103">
+                </a>
+        
+                <a href="https://www.artstation.com/curlscurly" target="_blank">
+                    <img src="https://cdna.artstation.com/p/assets/images/images/030/670/350/large/jasmin-habezai-fekri-1-1.jpg?1601309283">
+                </a>
+            </section>
+        
+            <div id="listArtes" name="listArtes"></div>
+    </main>
+</body>
+</html>
