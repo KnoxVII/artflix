@@ -16,17 +16,18 @@ body {
     background-repeat: no-repeat;
 }
 
-.conteiner {
+/* .conteiner {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-top: 15px;
     margin-bottom: 100px;
     text-align: center;
-}
+} */
 
 .page-title {
     background: var(--preto);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.459);
     color: var(--amarelo);
     margin: 0 0 5px;
     font-size: 50px;
@@ -56,46 +57,52 @@ main p {
     transition: .2s;
 }
 .botao, select{
-cursor: pointer;
+    cursor: pointer;
 }
 
 .campo input {
-display: block;
-margin: 0 auto;
-padding: 8px 150px;
+    display: block;
+    margin: 0 auto;
+    padding: 8px 150px;
 }
 input {
-position: center;
+    position: center;
 }
 
 input, button{
-border-radius: 5px;
+    border-radius: 5px; 
 }
 
 #listartes {
-margin: 0 10px;
+    margin: 0 10px;
 }
 
-body img {
-margin: 2 5px;
-}
 
 img {
-max-height: 100%;
-max-width: 100%;
-width: 250px;
-height: 350px;
-object-fit: cover;
-border-radius: 10px;
-box-shadow: 0 0 2em var(--preto); 
-transition: all 0.5s ease;
-display: inline-block; 
+    margin-bottom: 5px;
+    max-height: 100%;
+    max-width: 100%;
+    width: 250px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 0 2em var(--preto); 
+    transition: all 0.5s ease;
+    display: inline-block;
+    position: relative;
 }
 
 img:hover {
-transition: all 0.3s ease;
-transform: scale(1.1); 
-filter: grayscale(100%) brightness(50%) blur(0.5px);  
+    transition: all 0.5s ease;
+    transform: scale(1.3); 
+    z-index: 9999;
 }
+
+.img:hover :not(:hover) {
+    filter: grayscale(100%) blur(1px);
+    transition: all 0.5s ease;
+}
+
+
 
 
