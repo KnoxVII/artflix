@@ -1,6 +1,7 @@
-Artflix
- 
-Essa aplicação pode ser usada como uma forma de compartilhar e exibir imagens de arte favoritas, promovendo artistas e seus trabalhos e permitindo que outras pessoas descubram e apreciem novas formas de arte. Além disso, pode ser personalizado e incorporado em outras páginas da web para exibir uma lista de artes favoritas em diferentes contextos.
+<h1>Artflix :framed_picture:</h1>
+<img src="C:\Users\K-NOX\OneDrive\Área de Trabalho\Knox\Programação\Projetos\artflix\images\home.jpeg">
+<h2>Descrição</h2>
+<p>Esta aplicação é uma plataforma para compartilhar e exibir imagens de arte favoritas, promovendo artistas e seus trabalhos. Ela oferece a oportunidade de descobrir e apreciar novas formas de arte. Além disso, pode ser personalizada e incorporada em outras páginas da web, permitindo exibir uma lista de artes favoritas em diversos contextos. Através dessa aplicação, é possível criar uma comunidade de amantes de arte e contribuir para a divulgação de talentos.</p>
 
 Funcionalidades
 O site Artflix possui as seguintes funcionalidades:
