@@ -39,7 +39,7 @@
   <li>Abra um Pull Request neste repositório. 📩</li>
 </ol>
 
-<h2>Autor</h2>
+<h2>Autor ✍️</h2>
 <p>Vinícius S. Pacheco - https://github.com/KnoxVII</p>
 
 <h2>Licença</h2>
