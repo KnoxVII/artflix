@@ -1,41 +1,44 @@
-<h1>Artflix :framed_picture:</h1>
-<img src="C:\Users\K-NOX\OneDrive\Área de Trabalho\Knox\Programação\Projetos\artflix\images\home.jpeg">
+<h1>Artflix 🖼️</h1>
+<img src="https://raw.githubusercontent.com/KnoxVII/artflix/main/images/home.jpeg">
 <h2>Descrição</h2>
-<p>Esta aplicação é uma plataforma para compartilhar e exibir imagens de arte favoritas, promovendo artistas e seus trabalhos. Ela oferece a oportunidade de descobrir e apreciar novas formas de arte. Além disso, pode ser personalizada e incorporada em outras páginas da web, permitindo exibir uma lista de artes favoritas em diversos contextos. Através dessa aplicação, é possível criar uma comunidade de amantes de arte e contribuir para a divulgação de talentos.</p>
+<p>Esta aplicação é uma plataforma para compartilhar e exibir imagens de arte favoritas, promovendo artistas e seus trabalhos. Ela oferece a oportunidade de descobrir e apreciar novas formas de arte. Além disso, pode ser personalizada e incorporada em outras páginas da web, permitindo exibir uma lista de artes favoritas em diversos contextos. Através dessa aplicação, é possível criar uma comunidade de amantes de arte e contribuir para a divulgação de talentos. 🎨</p>
 
-Funcionalidades
-O site Artflix possui as seguintes funcionalidades:
+<h2>Funcionalidades ✨</h2>
+<ul>
+  <li>Visualização de portfólio: Os usuários podem clicar em uma arte para serem redirecionados para o portfólio do artista correspondente. 👀</li>
+  <li>Adição de artistas: Os usuários têm a opção de adicionar mais artistas ao site, inserindo a URL da imagem e o link do portfólio do artista. ➕</li>
+</ul>
 
-Visualização de portfólio: Os usuários podem clicar em uma arte para serem redirecionados para o portfólio do artista correspondente.
+<h2>Tecnologias utilizadas 💻</h2>
+<p>O projeto foi desenvolvido utilizando as seguintes tecnologias:</p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
 
-Adição de artistas: Os usuários têm a opção de adicionar mais artistas ao site, inserindo a URL da imagem e o link do portfólio do artista.
+<h2>Acesse o projeto 📁</h2>
+<p>Você pode acessar o projeto final clicando aqui: https://knoxvii.github.io/artflix/</p>
 
-Tecnologias utilizadas
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
+<p align="center"><img src="https://github.com/KnoxVII/artflix/blob/main/images/home-gif.gif?raw=true">
 
-HTML
-CSS
-JavaScript
-Como executar o projeto
-Para executar o projeto em sua máquina local, siga as etapas abaixo:
+<h2>Contribuição 🚀</h2>
+<p>Contribuições são bem-vindas! Se você deseja contribuir com este projeto, siga as etapas abaixo:</p>
+<ol>
+  <li>Faça um fork deste repositório.</li>
+  <li>Crie uma branch para a sua contribuição: <code>git checkout -b minha-contribuicao</code>. 🌳</li>
+  <li>Faça as alterações desejadas no projeto.</li>
+  <li>Commit suas alterações: <code>git commit -m "Minha contribuição"</code>. 💡</li>
+  <li>Faça push para a branch: <code>git push origin minha-contribuicao</code>. 🔀</li>
+  <li>Abra um Pull Request neste repositório. 📩</li>
+</ol>
 
-Clone este repositório para o diretório desejado em seu computador.
-Abra o arquivo index.html em seu navegador web.
-Contribuição
-Contribuições são bem-vindas! Se você deseja contribuir com este projeto, siga as etapas abaixo:
+<h2>Autor</h2>
+<p>Vinícius S. Pacheco - https://github.com/KnoxVII</p>
 
-Faça um fork deste repositório.
-Crie uma branch para a sua contribuição: git checkout -b minha-contribuicao.
-Faça as alterações desejadas no projeto.
-Commit suas alterações: git commit -m "Minha contribuição".
-Faça push para a branch: git push origin minha-contribuicao.
-Abra um Pull Request neste repositório.
-Autor
-Vinícius S. Pacheco - GitHub
+<h2>Licença</h2>
+<p>Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações. 📄</p>
 
-Licença
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
-
-Agradecimentos
-Agradeço a todos os artistas cujas obras estão sendo compartilhadas neste projeto.
-Agradeço a todos os contribuidores que ajudaram a melhorar o projeto.
+<h2>Agradecimentos</h2>
+<p>Agradeço a todos os artistas cujas obras estão sendo compartilhadas neste projeto. 🙏</p>
+<p>Agradeço de antemão a todos os contribuidores que virão a ajudar na melhoria do projeto.
