@@ -12,9 +12,15 @@
 <h2>Tecnologias utilizadas 💻</h2>
 <p>O projeto foi desenvolvido utilizando as seguintes tecnologias:</p>
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
+  <li>
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>HTML           
+  </li>
+  <li>
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>CSS
+  </li>
+  <li>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> JavaScript
+  </li>
 </ul>
 
 <h2>Acesse o projeto 📁</h2>
