@@ -1,5 +1,7 @@
 <h1>Artflix 🖼️</h1>
+
 <img src="https://raw.githubusercontent.com/KnoxVII/artflix/main/images/home.jpeg">
+
 <h2>Descrição</h2>
 <p>Esta aplicação é uma plataforma para compartilhar e exibir imagens de arte favoritas, promovendo artistas e seus trabalhos. Ela oferece a oportunidade de descobrir e apreciar novas formas de arte. Além disso, pode ser personalizada e incorporada em outras páginas da web, permitindo exibir uma lista de artes favoritas em diversos contextos. Através dessa aplicação, é possível criar uma comunidade de amantes de arte e contribuir para a divulgação de talentos. 🎨</p>
 
